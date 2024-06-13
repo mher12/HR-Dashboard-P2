@@ -11,3 +11,5 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Technology:** PowerQuery, PowerBi  
 
 **Results:** Reviewed and created dashboard on employee demographics.  
+
+<img src="" alt="dark themed dashboard with employee demographics" width="500" height="600">
